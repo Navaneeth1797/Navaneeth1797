@@ -9,7 +9,7 @@
 </p>
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, LeetCode
+- Solve programming problems at  LeetCode
 - Watch anime and TV shows
 - Play videogames
 - etc...
